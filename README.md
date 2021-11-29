@@ -33,4 +33,4 @@
 
 Результат анализа исправленного кода:
 
-![SonarCloud](SonarCloud.png)
+![SonarCloud](SonarCloudPassed.png)
